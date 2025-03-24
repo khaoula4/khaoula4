@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Khaoula Jbari!</h1>
+<h1 align="center">Hey there 👋 I'm Khaoula Jbari</h1>
 <p align="center">💻 Software Engineer </p>
 
 ---
