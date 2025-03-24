@@ -11,9 +11,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Khaoula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaoula4&show_icons=true&cache_seconds=1)
+[![trophy](https://github-profile-trophy.vercel.app/?username=khaoula4&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaoula4&layout=compact&theme=radical)
+![PR Count](https://img.shields.io/badge/PRs-12-blue)
 
 ---
 
