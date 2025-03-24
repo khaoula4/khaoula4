@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Khaoula Jbari!</h1>
-<p align="center">💻 Junior Software Engineer | ⚡ Passionate about clean & quality code</p>
+<p align="center">💻 Software Engineer </p>
 
 ---
 
@@ -24,12 +24,6 @@
 ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=khaoula4&theme=radical&no-bg=true&row=1&column=2&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📈 Contribution Graph
-
-[![Khaoula's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khaoula4&theme=react-dark)](https://github.com/khaoula4)
 
 ---
 
