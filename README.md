@@ -3,20 +3,20 @@
 
 ---
 
-### 🌟 About Me
+### ✨ About Me
 
 - 🌱 Currently learning **Vue.js**, **Spring Boot**, and diving into **DevOps & Cloud**
-- 📫 Reach me at: [khaoulajbari1@gmail.com]
+- 📫 Reach me at: <a href="mailto:khaoulajbari1@gmail.com">khaoulajbari1@gmail.com</a>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=khaoula4&theme=radical&row=1&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=khaoula4&theme=radical&no-bg=true&margin-w=15&title=commit,pull_request,issue,repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics 
 
 <img src="https://github.com/khaoula4/khaoula4/blob/main/github-metrics.svg" alt="GitHub Metrics" />
 
@@ -43,5 +43,4 @@
 
 ---
 
-<p align="center">💖 Made with passion and ☕ fueled by coffee ~ Khaoula 💻</p>
-
+<p align="center">💖 Made with passion ~ Khaoula 💻</p>
