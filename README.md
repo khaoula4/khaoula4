@@ -11,7 +11,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Khaoula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaoula4&show_icons=true&theme=radical)
+![Khaoula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaoula4&show_icons=true&cache_seconds=1)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaoula4&layout=compact&theme=radical)
 
