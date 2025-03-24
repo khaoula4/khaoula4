@@ -1,5 +1,8 @@
-<h1 align="center">Hey there 👋 I'm Khaoula Jbari</h1>
-<p align="center">💻 Software Engineer </p>
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=30&duration=3000&pause=1000&color=F5F5DC&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Khaoula+Jbari;Software+Engineer+%F0%9F%92%BB;Welcome+to+my+GitHub+account!+%F0%9F%91%8B" alt="Typing SVG" />
+  </h1>
+</div>
 
 ---
 
