@@ -5,14 +5,7 @@
 
 ### ✨ About Me
 
-- 🌱 Currently learning **Vue.js**, **Spring Boot**, and diving into **DevOps & Cloud**
 - 📫 Reach me at: <a href="mailto:khaoulajbari1@gmail.com">khaoulajbari1@gmail.com</a>
-
----
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=khaoula4&theme=radical&no-bg=true&margin-w=15&title=commit,pull_request,issue,repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -28,18 +21,48 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=khaoula4&theme=radical&no-bg=true&row=1&column=2&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 📈 Contribution Graph
 
-[![Khaoula's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=khaoula4&theme=react-dark)](https://github.com/khaoula4)
+[![Khaoula's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khaoula4&theme=react-dark)](https://github.com/khaoula4)
 
 ---
 
 ### 🛠️ Tech Stack
 
+<!-- Backend & Languages -->
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+<!-- Frontend -->
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+<!-- DevOps & Tools -->
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+<!-- Mobile -->
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+<!-- Databases -->
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 ---
 
